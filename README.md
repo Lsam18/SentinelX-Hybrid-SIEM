@@ -17,8 +17,7 @@ This project implements a **Hybrid SIEM** architecture combining Azure Sentinel,
 ---
 
 ## 🛠️ System Architecture  
-![Architecture Diagram](diagram-export-23-04-2025-00_03_07.png)  
-*(Replace with your diagram image link)*  
+![Architecture Diagram](diagram-export-23-04-2025-00_03_07.png)    
 
 1. **Cloud Honeypot**: Azure VM simulating vulnerable services (RDP/SMB).  
 2. **Local Honeypot**: Windows 10/11 VM with FIM and RDP exposure.  
