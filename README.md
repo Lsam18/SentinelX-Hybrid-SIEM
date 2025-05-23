@@ -1,4 +1,4 @@
-# Hybrid SIEM System with Cloud & Local Honeypot Integration
+# UNIFIED HYBRID SIEM ARCHITECTURE WITH CLOUD - LOCAL HONEYPOTS AND ANALYST DRIVEN AUTOMATION
 
 **Final Year Project – BSc (Hons) Computer Security – University of Plymouth**  
 **Author:** Lakshan Sameera | [lakshan.sam28@gmail.com](mailto:lakshan.sam28@gmail.com)
