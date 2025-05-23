@@ -70,6 +70,11 @@ v                             v
 
 ![Architecture Diagram](diagram-export-23-04-2025-00_03_07.png)
 
+## 📌 Project Poster
+
+[![Project Poster](./poster.png)](./poster.png)
+
+
 ## Key Components
 
 ### Detection Components
@@ -150,8 +155,6 @@ v                             v
 - **Logic Apps Automation**: Responds instantly — blocks IPs, isolates systems, alerts analyst
 - **SOC CSV Analyzer Pro**: Upload logs, visualize attacks, and export PDF reports
 - **Real-Time Dashboards**: Azure Workbooks for real-time login events, geo-maps, and incident heatmaps
-
-[![Project Poster](poster.png)](poster.png)
 
 ### SOC CSV Analyzer Pro Features
 
