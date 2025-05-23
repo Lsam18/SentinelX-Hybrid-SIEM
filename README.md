@@ -151,7 +151,7 @@ v                             v
 - **SOC CSV Analyzer Pro**: Upload logs, visualize attacks, and export PDF reports
 - **Real-Time Dashboards**: Azure Workbooks for real-time login events, geo-maps, and incident heatmaps
 
-![Project Poster](poster.png)
+[![Project Poster](poster.png)](poster.png)
 
 ### SOC CSV Analyzer Pro Features
 
