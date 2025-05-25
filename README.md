@@ -145,7 +145,7 @@ v                             v
 | **FIM Module & Powershell Script** | Real-time file integrity monitoring | **[File Integrity Monitor (FIM)](https://github.com/Lsam18/Sentinel-X)** |
 | **SOC CSV Analyzer** | Log analysis & reporting tool | **[SOC CSV Analyzer Pro](https://github.com/Lsam18/ai-soc-summary-SentinelX)** |
 | **Demo Video** | End-to-end system walkthrough | **[Access Demo Video Here](https://youtu.be/gx4zhcjHJBs?si=ySrrkKWzsjf__alV)** |
-| **Full Finalized Report** | End-to-end system Guide and Implementation - Full Report | **[Upon Request](lakshan.sam28@gmail.com)** |
+| **Full Finalized Report** | End-to-end system Guide and Implementation - Full Report | **[Learn the Full Story](https://drive.google.com/file/d/1z4DThM3h8LtPPT6uHIFIdnUdoB-X0vvR/view?usp=sharing)** |
 
 ## Features
 
